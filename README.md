@@ -7,7 +7,7 @@
 
 4.If the test script cannot be executed smoothly, please check if your TF card is fully inserted and if the read/write speed is normal. (The performance of the card affects the execution speed of the script.)
 
-5.The execution of the script is related to the DELAY delay. If the script cannot be executed on your device, please modify the parameter after DELAY according to its performance. The default value is 2000, which should work on most computers. For older machines, you can increase the delay accordingly.
+5.The execution of the script is related to the DELAY delay. If the script cannot be executed on your device, please modify the parameter after DELAY according to its performance. The default value is 800, which should work on most computers. For older machines, you can increase the delay accordingly.
 
 6.The folder contains three examples."Hello world" "FormatDevice" "GrabWiFiPassword". You can copy example to do test.
 
